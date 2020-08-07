@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="8.29">
 <file name="C:\Users\Acer Nitro 5\IdeaProjects\HomeWork3_1\Task5_1\HomeWork7\PECS\src\main\java\MachineProducer.java">
-<error line="3" column="34" severity="error" message="GenericWhitespace &apos;&lt;&apos; is preceded with whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.GenericWhitespaceCheck"/>
-<error line="4" severity="error" message="&apos;method def modifier&apos; has incorrect indentation level 5, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
-</file>
-<file name="C:\Users\Acer Nitro 5\IdeaProjects\HomeWork3_1\Task5_1\HomeWork7\PECS\src\main\java\MachineService.java">
-<error line="9" severity="error" message="Line is longer than 100 characters (found 114)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
-</file>
-<file name="C:\Users\Acer Nitro 5\IdeaProjects\HomeWork3_1\Task5_1\HomeWork7\PECS\src\main\java\MachineServiceImpl.java">
-<error line="5" severity="error" message="&apos;CLASS_DEF&apos; should be separated from previous statement." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
 </file>
 </checkstyle>
