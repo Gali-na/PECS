@@ -1,0 +1,8 @@
+язык : java
+jdk :
+  - openjdk11
+сценарий :
+  - mvn clean install
+кеш :
+  каталоги :
+    - $ HOME / .m2
